@@ -1,0 +1,596 @@
+4/28,Name,Country, Street,Street #2,,City,State,Zipcode,,Verify ,,,PackType,,Weight,,,,,,,,,Speed,Signature,,,Saturday,,,,Reference #1 (Tasks),Reference #2,,Email Address,Email,Email,Email,Label Type,Model,Group,Tracking #,Ship Method,AddComment,WorkNote,Asset Tag,SYS ID,,,
+Wayfair,Allison Wermers,US,310 Market St,,,Lynnfield,MA,01940,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416408,MacCorpLaptop,,allisonw757@outlook.com,1,1,1,Laptop,Mac,Corp,1Z5847Y44419789040,"=VLOOKUP(AG2,'campusship (3)'!B:F,2,0)","Hello,
+
+A UPS label has been created. Here is Allison Wermers's equipment UPS tracking number 1Z5847Y44419789040 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: =VLOOKUP(AG2,'campusship (3)'!B:F,2,0)
+Label Type: Laptop
+Model: Mac
+Image Type: Corp
+Tracking #: 1Z5847Y44419789040",ALT02611,"=VLOOKUP(AG2,'sc_task (5)'!A:B,2,0)","=""{Type: '""&AN2&""',Model:'""&AO2&""',Image:'""&AP2&""',Tracking:'""&AQ2&""',sysID:'""&AV2&""',name:'""&B2&""',asset:'""&AU2&""'},""",=CONCATENATE(AW2:AW116),?CSV&sysparm_default_export_fields=all
+Wayfair,Nicholas Wheat,US,500 Carnegie Dr,,,Pittsburgh,PA,15243,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416583,MacEngLaptop,,nickbwheat@gmail.com,1,1,1,Laptop,Mac,Eng,1Z5847Y44411192252,,"Hello,
+
+A UPS label has been created. Here is Nicholas Wheat's equipment UPS tracking number 1Z5847Y44411192252 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: Mac
+Image Type: Eng
+Tracking #: 1Z5847Y44411192252",ALT06244,,,,
+Wayfair,Gwendolyn Peterson,US,4045 Xerxes Ave S,,,Minneapolis,MN,55410,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0412954,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44411943664,,"Hello,
+
+A UPS label has been created. Here is Gwendolyn Peterson's equipment UPS tracking number 1Z5847Y44411943664 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44411943664",FTG26J3,,,,
+Wayfair,Kathiana Souffrant,US,77 Richard St,,,Brockton,MA,02301,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0412830,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44408287273,,"Hello,
+
+A UPS label has been created. Here is Kathiana Souffrant's equipment UPS tracking number 1Z5847Y44408287273 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44408287273",46M96J3,,,,
+Wayfair,Zeus Rivera,US,7 Champernowne,,,Madbury,NH,03823,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416491,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44406727096,,"Hello,
+
+A UPS label has been created. Here is Zeus Rivera's equipment UPS tracking number 1Z5847Y44406727096 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44406727096",4BJ33J3,,,,
+Wayfair,Jake Marano,US,8 Albion St,1,,Medford,MA,02155,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0414079,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44408947087,,"Hello,
+
+A UPS label has been created. Here is Jake Marano's equipment UPS tracking number 1Z5847Y44408947087 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44408947087",9WF96J3,,,,
+Wayfair,Colton Whorf,US,207 Newton St,,,Weston,MA,02493,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0415110,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44412111300,,"Hello,
+
+A UPS label has been created. Here is Colton Whorf's equipment UPS tracking number 1Z5847Y44412111300 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44412111300",7SN23J3,,,,
+Wayfair,Robert Morton,US,3330 S Midland Dr,p303,,West Haven,UT,84401,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416656,i5CorpLaptop,,mortonr2020@gmail.com,1,1,1,Laptop,i5,Corp,1Z5847Y44401628327,,"Hello,
+
+A UPS label has been created. Here is Robert Morton's equipment UPS tracking number 1Z5847Y44401628327 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44401628327",G9213J3,,,,
+Wayfair,Abhishek Govande,US,16 Winter St,31b,,Waltham,MA,02451,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0409284,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44418863710,,"Hello,
+
+A UPS label has been created. Here is Abhishek Govande's equipment UPS tracking number 1Z5847Y44418863710 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44418863710",HSG26J3,,,,
+Wayfair,Melissa Smith,US,3330 W 4000 S,d105,,West Haven,UT,84401,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416661,i5CorpLaptop,,smithmls2006@yahoo.com,1,1,1,Laptop,i5,Corp,1Z5847Y44405529132,,"Hello,
+
+A UPS label has been created. Here is Melissa Smith's equipment UPS tracking number 1Z5847Y44405529132 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44405529132",BJW33J3,,,,
+Wayfair,Beowulf Urban,US,39 Nottinghill Rd,,,Boston,MA,02135,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0415304,i5CorpLaptop,,,1,1,1,Laptop,i5,Corp,1Z5847Y44407770144,,"Hello,
+
+A UPS label has been created. Here is Beowulf Urban's equipment UPS tracking number 1Z5847Y44407770144 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Corp
+Tracking #: 1Z5847Y44407770144",4XT23J3,,,,
+Wayfair,Jeff Neuharth,US,3301 Morrison Ave,,,Cincinnati,OH,45220,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416306,i7CorpLaptop,,,1,1,1,Laptop,i7,Corp,1Z5847Y44410088760,,"Hello,
+
+A UPS label has been created. Here is Jeff Neuharth's equipment UPS tracking number 1Z5847Y44410088760 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i7
+Image Type: Corp
+Tracking #: 1Z5847Y44410088760",FCH77M3,,,,
+Wayfair,LISA TENAGLIA,US,14580 Foltz Pkwy,,,Strongsville,OH,44136,,,,,2,,5,,,,,,,,,1,,,,1,,,,SCTASK0416470,i5WarehouseLaptop,,,1,1,1,Laptop,i5,Warehouse,1Z5847Y44411235358,,"Hello,
+
+A UPS label has been created. Here is LISA TENAGLIA's equipment UPS tracking number 1Z5847Y44411235358 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: Laptop
+Model: i5
+Image Type: Warehouse
+Tracking #: 1Z5847Y44411235358",HW1FZW2,,,,
+Wayfair,Courtney Reardon,US,15288 AR-170,,,West Fork,AR,72774,,,,,2,,40,,,,,,,,,1,,,,1,,,,SCTASK0415440,IgelVCCFullSetup,,courtneyr21588@msn.com,1,1,1,FullSetup,Igel,VCC,1Z5847Y40106118815,,"Hello,
+
+A UPS label has been created. Here is Courtney Reardon's equipment UPS tracking number 1Z5847Y40106118815 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: FullSetup
+Model: Igel
+Image Type: VCC
+Tracking #: 1Z5847Y40106118815",109PNFS0B275,,,,
+Wayfair,Armani Coleman,US,8745 S Marshfield Ave,,,Chicago,IL,60620,,,,,2,,40,,,,,,,,,1,,,,1,,,,SCTASK0416634,IgelVCCFullSetup,,armanicoleman1209@gmail.com,1,1,1,FullSetup,Igel,VCC,1Z5847Y44407374377,,"Hello,
+
+A UPS label has been created. Here is Armani Coleman's equipment UPS tracking number 1Z5847Y44407374377 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: FullSetup
+Model: Igel
+Image Type: VCC
+Tracking #: 1Z5847Y44407374377",111PNLP0R680,,,,
+Wayfair,Anh Bui,US,1711 Harvey Mitchell Pkwy S,,,College Station,TX,77840,,,,,2,,40,,,,,,,,,1,,,,1,,,,SCTASK0416671,IgelVCCFullSetup,,christinabui03@tamu.edu,1,1,1,FullSetup,Igel,VCC,1Z5847Y44404616183,,"Hello,
+
+A UPS label has been created. Here is Anh Bui's equipment UPS tracking number 1Z5847Y44404616183 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: FullSetup
+Model: Igel
+Image Type: VCC
+Tracking #: 1Z5847Y44404616183",109PNTF0B385,,,,
+Wayfair,Latina Jakes,US,175 Eastern Ave,,,Benton Harbor,MI,49022,,,,,2,,40,,,,,,,,,1,,,,1,,,,SCTASK0416755,IgelVCCFullSetup,,jakeslatina@yahoo.com,1,1,1,FullSetup,Igel,VCC,1Z5847Y44403418194,,"Hello,
+
+A UPS label has been created. Here is Latina Jakes's equipment UPS tracking number 1Z5847Y44403418194 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: FullSetup
+Model: Igel
+Image Type: VCC
+Tracking #: 1Z5847Y44403418194",109PNQE0B620,,,,
+Wayfair,Elizabeth Fox,US,322 W Mill Dr,,,Nashville,TN,37209,,,,,2,,35,,,,,,,,,1,,,,1,,,,INC3513139,LTFullKit,,efox@wayfair.com,1,1,1,,,,1Z5847Y44419064402,,"Hello,
+
+A UPS label has been created. Here is Elizabeth Fox's equipment UPS tracking number 1Z5847Y44419064402 in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: 1Z5847Y44419064402",,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
+Wayfair,,US,,,,,,,,,,,2,,40,,,,,,,,,1,,,,1,,,,,,,,1,1,1,,,,,,"Hello,
+
+A UPS label has been created. Here is 's equipment UPS tracking number  in case you would like to track the equipment.
+
+Thank you.
+ET Onboarding Ops","Shipping label created and attached to the RITM
+Ship Method: 
+Label Type: 
+Model: 
+Image Type: 
+Tracking #: ",,,,,
